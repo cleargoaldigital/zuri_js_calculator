@@ -1,3 +1,4 @@
+// Enter figures on which to perform arithmetic operations.
 let firt_number = parseInt(prompt("Enter a digit"));
 let second_number = parseInt(prompt("Enter second digit"));
 
